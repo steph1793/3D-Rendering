@@ -1,1 +1,5 @@
 ![alt text](https://raw.githubusercontent.com/steph1793/3D-Rendering/master/files/report-1.png)
+![alt text](https://raw.githubusercontent.com/steph1793/3D-Rendering/master/files/report-2.png)
+![alt text](https://raw.githubusercontent.com/steph1793/3D-Rendering/master/files/report-3.png)
+![alt text](https://raw.githubusercontent.com/steph1793/3D-Rendering/master/files/report-4.png)
+![alt text](https://raw.githubusercontent.com/steph1793/3D-Rendering/master/files/report-5.png)
